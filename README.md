@@ -9,6 +9,7 @@ KELAS : IF 401
     Repository ini adalah dokumentasi perjalanan belajar saya dari tahap yang paling dasar hingga tingkat menengah. Di dalamnya, Anda akan menemukan kumpulan Jupyter Notebook yang berisi praktik langsung (hands-on) mengenai pemrograman Python, Exploratory Data Analysis (EDA), Data Cleaning & Preprocessing, pembuatan Dashboard Visualisasi, hingga pengenalan algoritma Machine Learning untuk regresi. Setiap notebook telah dilengkapi dengan narasi analitis (What, So what, Now what) untuk melatih pola pikir kritis seorang Data Scientist
 
 3 . Daftar Pertemuan & Topik :
+
     1. Pertemuan 1: Pengantar Data Science & Dasar Python
         Topik: Pemahaman dasar Python, penggunaan looping (perulangan), dan pembuatan fungsi sederhana untuk pengolahan teks.
         
