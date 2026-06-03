@@ -10,25 +10,25 @@ KELAS : IF 401
 
 3 . Daftar Pertemuan & Topik :
 
-    1. Pertemuan 1: Pengantar Data Science & Dasar Python
+    1. Pertemuan 1: Pengantar Data Science & Dasar Python : https://colab.research.google.com/drive/1zsEPiht5BK8ytXkaWyCg_AAB47KLTfkK?usp=sharing
         Topik: Pemahaman dasar Python, penggunaan looping (perulangan), dan pembuatan fungsi sederhana untuk pengolahan teks.
         
-    2. Pertemuan 2: Exploratory Data Analysis (EDA) - Titanic
+    2. Pertemuan 2: Exploratory Data Analysis (EDA) - Titanic : https://colab.research.google.com/drive/1bS2XOzVeTLo-bnwClQIqQdL69QlJzXWR?usp=sharing
         Topik: Pengenalan library Pandas, pengecekan missing values, manipulasi data dengan groupby, dan analisis tingkat keselamatan penumpang berdasarkan kelas sosial, gender, dan usia.
         
-    3. Pertemuan 3: Data Cleaning & API Integration (Sesuaikan nama file jika berbeda)
+    3. Pertemuan 3: Data Cleaning & API Integration : https://colab.research.google.com/drive/1kl1mqeWioRsA1Ozn03qyfhCokfXnUbqe?usp=sharing
         Topik: Membersihkan dataset properti yang kotor, normalisasi teks, penanganan outlier dengan metode IQR Fence, imputasi missing values (median/modus), serta penarikan data dari API JSONPlaceholder.
         
-    4. Pertemuan 4: Statistik Deskriptif & Korelasi - Iris
+    4. Pertemuan 4: Statistik Deskriptif & Korelasi - Iris : https://colab.research.google.com/drive/1g5PAGwkQAACdBvFTZjCf3YWCJxtormSc?usp=sharing
         Topik: Analisis statistik tingkat lanjut (Skewness, Kurtosis), pengecekan distribusi normal dengan Histogram & KDE, serta visualisasi Multikolinearitas menggunakan matriks korelasi dan Heatmap.
         
-    5. Pertemuan 5: Visualisasi Data Komprehensif - Penguins/Tips
+    5. Pertemuan 5: Visualisasi Data Komprehensif - Penguins/Tips : https://colab.research.google.com/drive/1OX2KuwPb9qKS8w3_rP8hc0wLCEds0LlR?usp=sharing
         Topik: Pembuatan dashboard grid interaktif menggunakan Matplotlib dan Seaborn (Bar chart, Histogram, Boxplot, Scatter plot) lengkap dengan anotasi angka dan interpretasi bisnis/biologi.
         
-    6. Pertemuan 6: Data Preprocessing untuk Machine Learning
+    6. Pertemuan 6: Data Preprocessing untuk Machine Learning : https://colab.research.google.com/drive/1b7jww74VQVXT1qhxAYodSc83DAmRedl9?usp=sharing
         Topik: Persiapan data yang solid sebelum modeling. Meliputi One-Hot Encoding (menghindari Dummy Trap), Stratified Train-Test Split, dan standarisasi skala menggunakan StandardScaler.
         
-    7. Pertemuan 7: Machine Learning - Regresi Linear Berganda
+    7. Pertemuan 7: Machine Learning - Regresi Linear Berganda : https://colab.research.google.com/drive/1UWzzE26p4jZL_OASFC1CoVTBNTPeWC5U?usp=sharing
         Topik: Membangun model Multiple Linear Regression menggunakan dataset gaji sintetis. Melakukan evaluasi metrik (R-squared, MAE, RMSE) dan menguji asumsi regresi (Homoskedastisitas) dengan Actual vs Predicted Plot dan Residual Plot.
 
 4. Tools & Library yang Digunakan :
